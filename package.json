@@ -1,10 +1,11 @@
 {
-  "name": "@yogev-core/logger",
+  "name": "yogev-logger",
   "version": "1.0.0",
   "description": "logger core module",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yogevye/core-logger/issues"
   },
-  "homepage": "https://github.com/yogevye/core-logger#readme"
+  "homepage": "https://github.com/yogevye/core-logger#readme",
+  "dependencies": {
+    "winston": "^3.2.1"
+  }
 }
