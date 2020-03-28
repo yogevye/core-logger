@@ -1,0 +1,19 @@
+{
+  "name": "@yogev-core/logger",
+  "version": "1.0.0",
+  "description": "logger core module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogevye/core-logger.git"
+  },
+  "author": "Yoge Yehuda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogevye/core-logger/issues"
+  },
+  "homepage": "https://github.com/yogevye/core-logger#readme"
+}
